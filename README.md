@@ -1,2 +1,0 @@
-# bestubirthday-demo
-for practice
